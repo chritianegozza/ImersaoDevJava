@@ -1,18 +1,24 @@
-## Getting Started
+## 🔑 Imersão Dev Alura Aula 01 - CONSUMINDO UMA API DE FILMES COM JAVA
+*****************************************************************************
+Tecnologias   |    Projeto   |    Layout   |    Licença
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Foto do projeto 
+------------------------------------------------------------------------------------------------------------------
+## 🚀 Tecnologias
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-## Folder Structure
+📌 Java
+📌 [API](https://raw.githubusercontent.com/alura-cursos/imersao-java-2-api/main/TopMovies.json)
+📌 [VSCode](https://code.visualstudio.com/docs/languages/java#_install-visual-studio-code-for-java)
+------------------------------------------------------------------------------------------------------------------
+## 💻 Projeto
+Nessa primeira aula 01 - CONSUMINDO UMA API DE FILMES COM JAVA, vamos construir uma aplicação do zero para consumir a API do IMDb e exibir os filmes mais populares, destacando seus pôsteres e visualizando sua classificação... Tudo isso sem usar nenhuma biblioteca externa!
+----------------------------------------------------------------------------------------------------------------
+## 🔖 Código da Aula 
+Você pode visualizar o Código da Aula do projeto através desse [link](https://github.com/alura-cursos/imersao-java-2/tree/aula1). 
+-------------------------------------------------------------------------------------------------------------
+📝 Licença
+Esse projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
-The workspace contains two folders by default, where:
+## Feito com ♥ by Alura 👋 Participe da nossa [comunidade](https://discord.com/invite/TXZzfT5YUP)!
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
