@@ -2,7 +2,10 @@
 *****************************************************************************
 Tecnologias   |    Projeto   |    Layout   |    Licença
 
-![image](https://user-images.githubusercontent.com/72118415/229328481-5ed171a0-23a0-49e8-8a9a-c56bc26d30e1.png)
+![image](https://user-images.githubusercontent.com/72118415/229328481-5ed171a0-23a0-49e8-8a9a-c56bc26d30e1.png).
+
+![image](https://user-images.githubusercontent.com/72118415/229589279-afaf28e3-101d-4ed3-9d47-b3ec4078edf1.png)
+
 
 ------------------------------------------------------------------------------------------------------------------
 ## 🚀 Tecnologias
